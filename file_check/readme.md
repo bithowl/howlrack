@@ -1,6 +1,6 @@
 # Recon File Check
 
-`recon_file_check.sh` is a Bash script designed to scan a target domain or a list of URLs for common sensitive or hidden files. 
+`file_check.sh` is a Bash script designed to scan a target domain or a list of URLs for common sensitive or hidden files. 
 It helps security researchers and penetration testers quickly discover important files such as `robots.txt`, `sitemap.xml`, `.env`, and many others. 
 The script extracts useful information from these files (e.g., disallowed paths from `robots.txt` and URLs from `sitemap.xml`) and optionally saves the results to disk.
 
