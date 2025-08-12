@@ -1,8 +1,9 @@
 #!/bin/bash
 # -----------------------------------------------------
-# recon_file_check.sh
+# file_check.sh
 # Scans a target domain for common sensitive/hidden files.
 # Parses robots.txt & sitemap.xml, and optionally saves output.
+# Crafted in the shadows by: bithowl
 # -----------------------------------------------------
 
 # -------- Colors --------
